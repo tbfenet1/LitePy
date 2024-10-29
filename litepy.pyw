@@ -136,7 +136,7 @@ def new_about():
     print("new_about")
     about = Toplevel()
     about.title("About LitePy")
-    tk.Label(about, text='LitePy 1.0\n\nBy: Sebastian Taylor\nReleased:<date>\nBuild: 0001').pack(padx=30, pady=30)
+    tk.Label(about, text='LitePy 1.0\n\nBy: Sebastian Taylor\nReleased:29/10/2024\nBuild: 0001').pack(padx=30, pady=30)
 # TODO: MAKE
 #def new_find():
 #   
